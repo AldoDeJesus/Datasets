@@ -1,0 +1,1060 @@
+pH,Temprature,Taste,Odor,Fat ,Turbidity,Colour,brand,Grade
+6.6,35,1,0,1,0,254,Hood,high
+,36,0,1,0,1,253,Hood,high
+8.5,70,1,1,1,1,246,Hood,low
+9.5,34,1,1,0,1,255,Hood,low
+6.6,37,,0,0,0,255,Hood,medium
+6.6,37,,1,1,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,,1,1,1,,Hood,low
+8.1,66,1,0,1,1,255,Hood,low
+6.7,45,1,1,0,0,247,Hood,medium
+6.7,45,1,,1,0,245,Hood,medium
+,50,0,1,1,1,255,Hood,low
+8.6,55,0,1,1,1,,Hood,low
+7.4,,1,0,1,1,255,Hood,low
+6.8,45,0,1,1,1,255,Hood,high
+6.5,38,1,0,0,,255,Hood,medium
+4.7,38,1,0,1,0,255,Hood,low
+3,40,,1,,1,255,Hood,low
+9,43,1,0,1,1,250,Hood,low
+6.8,40,1,,1,0,245,Hood,medium
+6.6,45,0,1,1,1,250,Hood,high
+6.5,36,0,0,1,0,255,Hood,medium
+4.5,38,0,,1,1,255,Hood,low
+6.6,45,1,,1,1,245,Hood,high
+6.8,35,,0,1,0,246,Hood,medium
+6.5,36,0,,1,0,253,Hood,high
+8.5,70,0,0,,0,,Hood,low
+,34,0,0,0,1,240,Hood,medium
+6.5,37,0,0,0,,245,Hood,medium
+6.6,37,1,0,1,0,255,Hood,high
+6.4,45,0,1,0,0,240,Hood,medium
+6.5,40,0,,,1,250,Hood,low
+6.8,42,1,1,1,1,255,Hood,high
+6.7,41,1,0,0,0,247,Hood,medium
+6.7,50,1,1,1,0,245,Hood,low
+,45,0,1,1,,255,Hood,high
+,55,0,1,0,0,255,Hood,low
+7.4,,0,0,,0,255,Hood,low
+6.8,41,0,0,0,0,255,Hood,medium
+6.5,38,1,,1,,255,Hood,high
+6.8,38,0,0,0,0,255,Hood,medium
+3,40,1,0,0,,255,Hood,low
+9,,1,1,1,1,248,Hood,low
+6.8,,,1,1,1,255,Hood,high
+,45,0,0,0,1,250,Hood,medium
+6.5,36,0,0,0,0,247,Hood,medium
+6.6,38,,0,,0,255,Hood,medium
+6.8,45,1,1,1,0,245,Hood,high
+9.5,34,1,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+6.6,37,1,1,1,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,1,250,Hood,low
+8.1,66,1,0,,1,,Hood,low
+6.7,45,1,,0,0,247,Hood,medium
+6.7,45,1,,1,0,245,Hood,medium
+5.6,50,0,1,1,1,,Hood,low
+8.6,55,0,1,1,1,,Hood,low
+7.4,90,1,0,1,1,255,Hood,low
+6.8,45,0,0,1,,255,Hood,medium
+6.5,38,1,0,1,0,255,Hood,medium
+6.7,38,1,0,1,0,255,Hood,high
+3,40,1,,1,1,,Hood,low
+9,43,1,0,1,1,250,Hood,low
+8.6,55,0,1,1,1,255,Hood,low
+6.8,45,,0,0,1,255,Hood,medium
+6.8,45,0,1,1,1,255,Hood,high
+6.5,38,1,0,0,0,255,Hood,medium
+4.7,38,1,0,1,0,255,Hood,low
+3,40,1,1,1,1,255,Hood,low
+9,43,1,,1,1,250,Hood,low
+6.8,40,1,0,1,0,245,Hood,medium
+6.6,45,0,1,1,1,250,Hood,high
+6.5,36,0,0,1,0,255,Hood,medium
+4.5,38,0,1,1,,255,Hood,low
+6.8,45,1,,1,,245,Hood,high
+6.5,35,1,0,1,0,246,Hood,medium
+6.8,36,0,1,1,0,253,Hood,high
+8.5,70,0,0,0,0,246,Hood,low
+6.8,34,0,0,,1,240,Hood,medium
+6.5,37,0,0,0,0,245,Hood,medium
+6.6,37,1,0,1,0,255,Hood,high
+6.8,45,,1,0,0,240,Hood,medium
+7.4,65,0,0,0,0,255,Hood,low
+6.8,41,0,0,1,0,255,Hood,medium
+6.5,38,1,1,1,1,255,Hood,high
+6.6,38,0,0,0,0,255,Hood,medium
+3,40,,,0,0,255,Hood,low
+9,43,1,1,1,1,248,Hood,low
+,40,1,1,,1,255,Hood,high
+6.6,50,0,0,0,1,250,Hood,low
+6.5,36,0,0,0,0,247,Hood,medium
+6.6,50,0,0,0,0,255,Hood,low
+6.8,45,1,1,1,0,245,Hood,high
+9.5,34,1,1,0,1,255,Hood,low
+6.5,,0,0,0,,,Hood,medium
+9.5,34,1,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+,37,1,1,1,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,1,250,Hood,low
+8.1,66,1,0,1,1,255,Hood,low
+6.7,45,1,,0,0,247,Hood,medium
+6.7,45,1,1,1,0,245,Hood,medium
+5.6,50,0,1,1,1,255,Hood,low
+6.6,35,0,,1,1,255,Hood,high
+,90,1,0,1,,255,Hood,low
+6.8,50,0,0,1,0,255,Hood,low
+6.5,38,1,0,1,0,255,Hood,medium
+6.7,38,1,0,,0,255,Hood,high
+3,40,1,1,1,1,255,Hood,low
+6.6,43,1,0,1,1,250,Hood,high
+8.6,55,0,1,1,1,,Hood,low
+6.8,45,,0,0,1,255,Hood,medium
+6.8,45,0,1,,1,255,Hood,high
+6.5,38,1,0,0,0,255,Hood,medium
+,38,1,0,,0,255,Hood,high
+3,40,1,1,1,,255,Hood,low
+9,43,1,0,1,1,250,Hood,low
+6.8,40,,,1,0,245,Hood,medium
+,45,0,0,0,1,250,Hood,medium
+6.5,36,0,0,1,0,255,Hood,medium
+6.6,,,0,1,,255,Hood,medium
+6.8,45,1,1,1,1,245,Hood,high
+6.5,55,1,,1,0,246,Hood,low
+6.8,36,0,1,1,0,253,Hood,high
+8.5,70,0,0,0,0,246,Hood,low
+6.8,40,1,0,,0,245,Hood,medium
+6.6,45,0,1,1,1,250,Hood,high
+6.5,,0,0,1,0,255,Hood,medium
+4.5,38,0,1,1,1,255,Hood,low
+6.8,45,1,1,1,1,245,Hood,high
+6.5,35,1,0,1,,246,Hood,medium
+6.8,36,0,1,1,0,253,Hood,high
+8.5,70,0,0,,0,246,Hood,low
+6.8,34,0,0,0,1,240,Hood,medium
+6.5,37,0,0,0,0,245,Hood,medium
+6.6,37,,0,1,0,255,Hood,high
+6.8,,0,,0,0,240,Hood,medium
+7.4,,0,0,0,0,255,Hood,low
+6.8,41,0,0,1,0,255,Hood,medium
+6.5,38,1,1,,1,255,Hood,high
+6.6,38,,0,0,0,255,Hood,medium
+3,40,1,0,0,0,255,Hood,low
+9,43,1,1,1,1,248,Hood,low
+6.8,40,1,1,1,1,255,Hood,high
+6.6,,0,0,0,1,250,Hood,low
+,36,0,0,0,0,247,Hood,medium
+6.6,,0,0,,0,255,Hood,low
+6.8,45,1,1,1,0,245,Hood,high
+9.5,34,1,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+9.5,34,1,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+6.6,37,1,1,1,,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,1,250,Hood,low
+8.1,66,1,0,1,1,255,Hood,low
+6.7,45,1,,0,0,247,Hood,medium
+6.7,45,1,1,1,0,245,Hood,medium
+5.6,50,0,1,1,1,255,Hood,low
+6.6,35,0,1,,1,255,Hood,high
+7.4,90,1,0,,1,255,Hood,low
+6.8,50,0,0,1,0,255,Hood,low
+6.5,38,1,0,1,0,255,Hood,medium
+,41,1,0,0,0,247,Hood,medium
+,50,1,1,1,0,245,Hood,low
+6.8,45,0,1,1,1,255,Hood,high
+8.6,55,0,,0,0,255,Hood,low
+7.4,65,0,0,0,0,255,Hood,low
+6.8,41,0,0,0,0,255,Hood,medium
+6.5,38,1,,1,1,255,Hood,high
+6.8,38,0,0,0,0,255,Hood,medium
+3,,1,,0,0,255,Hood,low
+,43,1,1,1,1,248,Hood,low
+6.8,40,1,1,1,1,255,Hood,high
+6.6,45,0,0,0,1,250,Hood,medium
+6.5,36,0,0,0,0,247,Hood,medium
+6.6,38,0,0,0,0,255,Hood,medium
+6.8,45,1,1,1,,245,Hood,high
+9.5,34,1,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+6.6,,1,1,1,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+,60,0,,1,1,250,Hood,low
+,66,1,0,1,1,255,Hood,low
+6.7,45,,1,0,0,247,Hood,medium
+6.7,,1,1,1,0,245,Hood,medium
+5.6,50,0,1,1,1,255,Hood,low
+8.6,55,0,,1,1,255,Hood,low
+7.4,90,1,0,1,1,255,Hood,low
+6.8,45,0,0,1,0,255,Hood,medium
+6.5,38,1,0,1,0,255,Hood,medium
+6.7,38,1,,1,0,255,Hood,high
+3,40,1,1,1,1,255,Hood,low
+9,43,1,0,1,1,250,Hood,low
+8.6,,0,1,1,1,255,Hood,low
+6.8,45,0,0,0,1,,Hood,medium
+6.8,45,0,1,1,1,255,Hood,high
+6.5,38,1,0,0,0,255,Hood,medium
+4.7,38,1,,1,0,255,Hood,low
+3,,1,1,1,1,255,Hood,low
+9,43,1,0,,1,250,Hood,low
+6.8,40,1,0,1,0,245,Hood,medium
+,37,,0,0,,255,Hood,medium
+,37,1,1,1,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,,250,Hood,low
+8.1,66,1,0,1,1,255,Hood,low
+6.7,45,1,,0,0,247,Hood,medium
+6.7,45,1,1,1,0,245,Hood,medium
+5.6,50,,1,1,1,255,Hood,low
+8.6,55,0,1,1,1,255,Hood,low
+7.4,90,1,0,1,1,255,Hood,low
+6.8,45,0,0,1,0,255,Hood,medium
+6.5,38,1,0,1,0,255,Hood,medium
+6.7,38,1,0,1,0,255,Hood,high
+,40,1,1,1,1,255,Hood,low
+9,43,1,,1,1,,Hood,low
+8.6,55,0,1,1,1,255,Hood,low
+6.8,45,0,0,0,1,255,Hood,medium
+6.8,45,0,1,,1,255,Hood,high
+6.5,38,1,0,0,0,255,Hood,medium
+4.7,38,1,,1,0,255,Hood,low
+3,40,1,1,1,1,255,Hood,low
+9,,1,0,1,1,,Hood,low
+6.8,40,1,0,1,0,245,Hood,medium
+6.6,45,0,1,1,1,250,Hood,high
+6.5,36,0,0,1,0,255,Hood,medium
+4.5,38,0,1,1,1,255,Hood,low
+6.8,45,1,1,1,1,245,Hood,high
+6.5,35,,0,,0,246,Hood,medium
+6.8,36,0,1,1,0,253,Hood,high
+8.5,70,0,0,0,0,246,Hood,low
+,34,0,0,0,1,240,Hood,medium
+,37,0,0,0,0,245,Hood,medium
+6.6,37,1,0,1,0,255,Hood,high
+6.8,45,0,1,0,0,240,Hood,medium
+7.4,65,0,0,0,0,255,Hood,low
+6.8,41,0,0,1,0,255,Hood,medium
+,38,1,1,,,255,Hood,high
+,38,0,0,,,255,Hood,medium
+3,40,1,0,0,,255,Hood,low
+9,43,1,,,1,248,Hood,low
+,38,1,0,,,255,Hood,medium
+6.7,38,1,0,1,0,255,Hood,high
+3,40,1,1,1,1,255,Hood,low
+6.6,43,1,,1,1,,Hood,high
+8.6,55,0,1,1,1,,Hood,low
+6.8,,0,,0,1,255,Hood,medium
+,45,,1,1,1,255,Hood,high
+,38,1,0,0,0,255,Hood,medium
+6.6,38,1,0,1,0,255,Hood,high
+3,40,1,1,1,1,,Hood,low
+9,43,1,,1,1,250,Hood,low
+6.8,40,1,0,1,0,245,Hood,medium
+6.6,45,0,0,0,,250,Hood,medium
+6.5,,0,0,1,0,255,Hood,medium
+6.6,,0,0,1,0,255,Hood,medium
+6.8,45,1,1,1,1,245,Hood,high
+6.5,55,1,,1,0,246,Hood,low
+6.8,36,0,1,1,0,253,Hood,high
+8.5,70,,0,0,0,246,Hood,low
+6.8,40,1,0,1,0,245,Hood,medium
+,45,,1,1,1,250,Hood,high
+6.5,36,0,0,1,0,255,Hood,medium
+4.5,38,0,1,1,1,255,Hood,low
+6.8,45,1,1,1,,245,Hood,high
+6.5,35,1,0,1,0,246,Hood,medium
+6.8,36,0,1,1,0,253,Hood,high
+8.5,,0,0,0,0,246,Hood,low
+6.8,34,0,0,0,1,,Hood,medium
+9,43,1,1,1,1,248,Hood,low
+6.8,40,1,1,1,1,255,Hood,high
+6.6,50,0,0,0,1,250,Hood,low
+6.5,36,0,0,0,0,247,Hood,medium
+6.6,50,0,0,0,0,,Hood,low
+,45,1,1,1,0,245,Hood,high
+9.5,,1,1,0,1,255,Hood,low
+6.5,,0,0,0,0,255,Hood,medium
+9.5,34,,1,0,1,255,Hood,low
+6.5,,0,0,0,0,255,Hood,medium
+6.6,37,1,,,1,255,Hood,high
+,45,1,,,1,250,Hood,low
+4.5,,0,1,1,1,250,Hood,low
+8.1,66,1,0,1,,255,Hood,low
+6.7,45,,1,0,0,247,Hood,medium
+6.7,45,,1,1,0,245,Hood,medium
+5.6,,0,1,1,1,255,Hood,low
+6.6,35,0,,1,1,255,Hood,high
+7.4,90,1,0,1,1,255,Hood,low
+6.8,50,0,0,1,0,255,Hood,low
+6.5,38,1,,1,0,255,Hood,medium
+6.7,41,1,0,0,0,247,Hood,medium
+6.7,,1,1,1,0,245,Hood,low
+,45,0,1,1,1,255,Hood,high
+,55,,,,0,,Hood,low
+7.4,,0,0,0,0,,Hood,low
+6.8,41,0,0,0,0,255,Hood,medium
+6.5,38,1,1,1,1,255,Hood,high
+6.8,,0,0,0,0,255,Hood,medium
+3,40,1,0,0,0,255,Hood,low
+9,43,1,1,1,1,,Hood,low
+6.8,40,1,1,1,1,255,Hood,high
+6.6,45,0,0,0,1,250,Hood,medium
+6.5,36,0,0,0,0,247,Hood,medium
+6.6,38,0,0,0,0,255,Hood,medium
+6.8,45,1,1,,0,,Hood,high
+9.5,34,,1,0,1,255,Hood,low
+6.5,37,0,0,0,0,255,Hood,medium
+6.6,,1,1,1,1,,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,1,250,Hood,low
+8.1,66,1,,1,1,,Hood,low
+6.7,45,,1,0,,247,Hood,medium
+6.7,,,1,1,0,245,Hood,medium
+5.6,,,,1,1,255,Hood,low
+8.6,55,,1,1,1,255,Hood,low
+7.4,90,1,0,1,1,255,Hood,low
+6.8,45,0,0,1,0,255,Hood,medium
+6.5,38,,0,1,0,255,Hood,medium
+,,1,0,1,0,255,Hood,high
+3,40,1,1,1,1,255,Hood,low
+9,43,1,0,1,1,250,Hood,low
+,55,0,1,1,1,255,Hood,low
+6.8,45,0,0,,1,255,Hood,medium
+6.8,,0,1,1,1,255,Hood,high
+,38,,0,0,0,255,Hood,medium
+4.7,38,1,0,1,0,255,Hood,low
+3,40,1,1,1,1,255,Hood,low
+9,,1,0,1,1,250,Hood,low
+6.8,40,1,0,1,0,,Hood,medium
+6.5,37,0,0,0,0,255,Hood,medium
+6.6,37,1,1,,1,255,Hood,high
+5.5,45,1,0,1,1,250,Hood,low
+4.5,60,0,1,1,1,250,Hood,low
+8.1,66,1,0,1,1,255,Hood,low
+,45,1,1,0,0,247,Hood,medium
+6.7,45,1,1,,0,245,Hood,medium
+5.6,50,0,1,1,1,255,Hood,low
+8.6,55,0,,,1,255,Hood,low
+,90,,0,1,1,255,Hood,low
+,45,,0,1,0,,Hood,medium
+6.5,38,1,0,1,0,255,Hood,medium
+,38,1,0,1,0,255,Hood,high
+3,40,1,1,1,1,255,Hood,low
+9,43,1,0,1,1,250,Hood,low
+,55,0,1,1,1,255,Hood,low
+6.8,45,0,0,0,1,255,Hood,medium
+6.8,45,0,1,1,1,255,Hood,high
+6.5,38,1,0,0,0,255,Hood,medium
+4.7,38,1,,1,0,255,Hood,low
+3,40,1,1,1,1,255,All Fairlife,low
+9,,1,0,,1,250,All Fairlife,low
+6.8,40,1,,1,0,245,All Fairlife,medium
+6.6,45,0,1,1,1,250,All Fairlife,high
+6.5,36,0,0,1,0,255,All Fairlife,medium
+4.5,38,0,1,1,1,255,All Fairlife,low
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,35,1,0,1,,246,All Fairlife,medium
+6.8,36,0,1,1,0,253,All Fairlife,high
+8.5,70,,0,,0,246,All Fairlife,low
+,34,0,0,0,1,240,All Fairlife,medium
+6.5,37,0,0,0,0,245,All Fairlife,medium
+6.6,,1,0,1,0,255,All Fairlife,high
+6.8,45,0,1,,0,240,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,0,0,1,0,255,All Fairlife,medium
+6.5,38,1,1,1,1,255,All Fairlife,high
+6.6,38,,0,0,0,255,All Fairlife,medium
+3,40,1,0,0,0,255,All Fairlife,low
+9,43,,1,1,1,248,All Fairlife,low
+6.5,38,,0,1,0,255,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,1,255,All Fairlife,low
+6.6,43,1,0,1,1,250,All Fairlife,high
+8.6,55,0,1,1,1,255,All Fairlife,low
+6.8,45,0,0,0,1,255,All Fairlife,medium
+,45,0,1,1,1,255,All Fairlife,high
+6.5,38,1,0,0,0,255,All Fairlife,medium
+6.6,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+6.8,40,1,0,1,0,245,All Fairlife,medium
+6.6,45,0,0,0,1,250,All Fairlife,medium
+6.5,36,0,0,1,0,255,All Fairlife,medium
+6.8,,0,1,1,1,255,All Fairlife,high
+6.5,38,1,0,0,0,,All Fairlife,medium
+4.7,38,1,0,1,0,255,All Fairlife,low
+3,40,,1,1,1,255,All Fairlife,low
+,43,1,0,1,1,250,All Fairlife,low
+6.8,40,1,0,1,0,,All Fairlife,medium
+6.6,45,0,1,1,1,250,All Fairlife,high
+6.5,,0,0,1,0,255,All Fairlife,medium
+4.5,38,0,,,1,255,All Fairlife,low
+6.8,45,1,1,,,245,All Fairlife,high
+6.5,35,1,0,1,0,246,All Fairlife,medium
+6.8,36,0,1,1,0,253,All Fairlife,high
+8.5,70,0,,,0,246,All Fairlife,low
+6.8,34,0,0,0,1,240,All Fairlife,medium
+6.5,37,0,0,0,0,245,All Fairlife,medium
+6.6,37,1,0,1,0,255,All Fairlife,high
+6.8,,0,1,0,,240,All Fairlife,medium
+7.4,65,0,0,0,,255,All Fairlife,low
+6.8,41,0,0,1,0,255,All Fairlife,medium
+6.5,38,1,1,1,1,255,All Fairlife,high
+6.6,38,,0,0,0,255,All Fairlife,medium
+3,,1,0,0,0,255,All Fairlife,low
+9,43,1,1,,,248,All Fairlife,low
+6.8,40,,1,1,1,,All Fairlife,high
+6.6,50,0,0,0,1,250,All Fairlife,low
+6.5,36,0,0,0,0,247,All Fairlife,medium
+6.6,,0,0,,0,,All Fairlife,low
+6.8,45,1,,1,0,245,All Fairlife,high
+,34,1,1,0,1,255,All Fairlife,low
+6.5,37,0,0,,0,255,All Fairlife,medium
+9.5,34,1,1,0,1,255,All Fairlife,low
+6.5,37,0,0,,0,255,All Fairlife,medium
+6.6,37,1,1,1,1,255,All Fairlife,high
+5.5,45,,0,1,,250,All Fairlife,low
+4.5,60,0,1,1,1,250,All Fairlife,low
+8.1,66,1,0,1,1,255,All Fairlife,low
+6.7,45,1,1,0,0,247,All Fairlife,medium
+6.7,45,1,1,,0,245,All Fairlife,medium
+5.6,50,0,1,1,1,255,All Fairlife,low
+6.6,35,0,1,1,1,255,All Fairlife,high
+7.4,90,1,0,1,1,255,All Fairlife,low
+6.8,50,0,0,1,0,255,All Fairlife,low
+,,1,0,1,0,,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,1,255,All Fairlife,low
+6.6,43,1,0,1,1,,All Fairlife,high
+8.6,55,0,1,1,1,255,All Fairlife,low
+6.8,45,0,0,0,1,255,All Fairlife,medium
+6.8,45,0,1,1,,255,All Fairlife,high
+6.5,38,,0,0,0,255,All Fairlife,medium
+6.6,38,1,0,1,,255,All Fairlife,high
+3,40,1,1,1,,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+6.8,40,1,0,1,0,245,All Fairlife,medium
+6.6,45,0,0,0,1,250,All Fairlife,medium
+6.5,36,0,0,1,0,255,All Fairlife,medium
+,38,0,0,1,0,255,All Fairlife,medium
+6.8,45,1,1,1,1,245,All Fairlife,high
+,55,1,0,1,0,246,All Fairlife,low
+6.8,36,0,1,1,0,253,All Fairlife,high
+8.5,70,0,0,,0,246,All Fairlife,low
+6.8,40,1,0,1,0,245,All Fairlife,medium
+6.6,45,0,1,1,,250,All Fairlife,high
+6.5,36,0,0,1,0,255,All Fairlife,medium
+,38,0,1,1,1,255,All Fairlife,low
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,35,1,0,1,0,,All Fairlife,medium
+6.8,36,0,,1,0,253,All Fairlife,high
+8.5,70,0,0,0,0,246,All Fairlife,low
+,50,0,0,0,0,255,All Fairlife,low
+6.8,45,1,,1,0,245,All Fairlife,high
+9.5,34,1,1,0,,255,All Fairlife,low
+6.5,,0,0,0,0,255,All Fairlife,medium
+9.5,34,1,,0,,255,All Fairlife,low
+6.5,37,0,0,0,0,255,All Fairlife,medium
+6.6,37,1,,,1,255,All Fairlife,high
+,45,1,0,1,1,250,All Fairlife,low
+4.5,60,0,,1,1,250,All Fairlife,low
+8.1,66,1,0,1,,,All Fairlife,low
+6.7,45,1,1,0,0,247,All Fairlife,medium
+,45,1,1,,0,,All Fairlife,medium
+5.6,50,0,1,,1,255,All Fairlife,low
+6.6,35,0,1,1,1,255,All Fairlife,high
+7.4,90,1,0,1,,255,All Fairlife,low
+6.8,50,0,0,1,0,255,All Fairlife,low
+6.5,38,1,0,1,0,255,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,1,255,All Fairlife,low
+6.6,43,1,0,1,1,250,All Fairlife,high
+8.6,55,0,1,1,1,255,All Fairlife,low
+6.8,45,0,0,0,1,,All Fairlife,medium
+6.8,45,0,1,1,1,,All Fairlife,high
+6.5,38,1,0,0,0,255,All Fairlife,medium
+6.6,38,,,1,0,255,All Fairlife,high
+3,40,1,1,1,1,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+6.8,40,1,0,,,245,All Fairlife,medium
+,45,0,0,,1,250,All Fairlife,medium
+6.5,36,0,0,1,0,255,All Fairlife,medium
+6.6,,0,0,1,,255,All Fairlife,medium
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,55,1,0,,0,246,All Fairlife,low
+6.8,36,0,1,1,0,253,All Fairlife,high
+8.5,70,0,0,0,0,246,All Fairlife,low
+6.8,40,1,,,0,245,All Fairlife,medium
+6.6,45,0,1,,1,250,All Fairlife,high
+6.5,36,0,0,1,0,255,All Fairlife,medium
+4.5,38,,1,1,1,255,All Fairlife,low
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,35,1,0,1,0,246,All Fairlife,medium
+6.8,,0,1,1,0,253,All Fairlife,high
+8.5,70,0,,0,0,246,All Fairlife,low
+6.8,34,0,0,0,1,240,All Fairlife,medium
+6.5,37,0,0,0,0,245,All Fairlife,medium
+6.6,37,1,0,1,0,255,All Fairlife,high
+6.8,45,0,,0,0,240,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,,0,1,0,255,All Fairlife,medium
+6.5,38,1,1,1,1,255,All Fairlife,high
+6.6,38,0,0,0,0,255,All Fairlife,medium
+3,40,1,0,,0,255,All Fairlife,low
+9,43,1,1,1,,,All Fairlife,low
+6.8,40,1,1,1,1,,All Fairlife,high
+6.6,50,0,0,0,1,250,All Fairlife,low
+6.5,36,0,0,0,0,247,All Fairlife,medium
+6.6,50,0,0,0,0,255,All Fairlife,low
+6.8,45,,,1,0,245,All Fairlife,high
+,,1,1,,1,,All Fairlife,low
+6.5,37,,0,0,,255,All Fairlife,medium
+9.5,34,1,,0,1,255,All Fairlife,low
+6.5,37,0,0,0,0,255,All Fairlife,medium
+,37,1,1,1,1,255,All Fairlife,high
+5.5,45,1,0,,1,250,All Fairlife,low
+,60,0,1,1,1,250,All Fairlife,low
+8.1,66,1,0,1,1,255,All Fairlife,low
+,45,1,1,0,,247,All Fairlife,medium
+6.7,45,1,1,1,0,245,All Fairlife,medium
+5.6,50,0,1,,1,,All Fairlife,low
+6.6,35,0,1,1,1,255,All Fairlife,high
+7.4,90,1,0,1,,255,All Fairlife,low
+6.8,,0,0,1,0,255,All Fairlife,low
+6.5,38,1,,1,0,,All Fairlife,medium
+6.7,41,1,0,,0,247,All Fairlife,medium
+6.7,,1,1,1,0,245,All Fairlife,low
+,45,0,1,1,1,255,All Fairlife,high
+,45,,,0,0,255,All Fairlife,medium
+7.4,65,0,0,0,,255,All Fairlife,low
+6.8,41,0,0,0,0,255,All Fairlife,medium
+6.5,38,1,1,1,1,255,All Fairlife,high
+6.8,38,,0,0,0,255,All Fairlife,medium
+3,40,1,0,0,0,255,All Fairlife,low
+9,,1,1,1,1,248,All Fairlife,low
+6.8,40,,1,1,1,255,All Fairlife,high
+,,0,0,0,1,250,All Fairlife,low
+6.5,36,0,0,0,0,247,All Fairlife,medium
+6.6,38,0,0,0,0,255,All Fairlife,medium
+6.8,45,1,,1,0,,All Fairlife,high
+9.5,34,1,1,0,1,255,All Fairlife,low
+6.5,37,,0,0,0,255,All Fairlife,medium
+6.6,37,,1,1,1,255,All Fairlife,high
+5.5,45,1,0,1,,250,All Fairlife,low
+6.5,,1,0,0,0,,All Fairlife,medium
+8.1,66,1,,1,1,255,All Fairlife,low
+,45,1,1,0,0,247,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,1,,All Fairlife,low
+6.8,43,1,0,1,0,250,All Fairlife,high
+8.6,55,0,1,1,1,255,All Fairlife,low
+6.8,55,0,0,0,1,255,All Fairlife,low
+6.8,45,0,1,1,1,255,All Fairlife,high
+,38,,0,0,0,255,All Fairlife,medium
+4.7,38,1,0,1,,255,All Fairlife,low
+3,40,1,,1,1,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+6.8,40,,0,1,0,245,All Fairlife,medium
+6.6,45,0,1,1,1,250,All Fairlife,high
+6.5,36,0,0,1,0,255,All Fairlife,medium
+4.5,38,0,1,,1,,All Fairlife,low
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,,1,0,,0,246,All Fairlife,low
+6.8,36,,1,,0,253,All Fairlife,high
+8.5,70,0,,0,0,,All Fairlife,low
+6.8,34,0,0,,1,240,All Fairlife,medium
+6.5,37,0,,0,0,245,All Fairlife,medium
+6.6,,1,0,1,0,255,All Fairlife,high
+,45,0,1,0,,,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,0,0,1,0,255,All Fairlife,medium
+6.5,38,1,1,,,,All Fairlife,high
+6.6,38,0,0,0,0,255,All Fairlife,medium
+6.6,40,1,0,1,1,255,All Fairlife,high
+9,43,1,1,1,1,248,All Fairlife,low
+6.5,38,1,0,1,0,,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,,1,1,1,1,255,All Fairlife,low
+6.6,43,1,0,1,1,250,All Fairlife,high
+6.8,41,0,0,1,0,,All Fairlife,medium
+,38,1,1,1,1,,All Fairlife,high
+6.6,,0,0,0,0,255,All Fairlife,medium
+3,40,1,0,0,0,255,All Fairlife,low
+9,43,1,,,,248,All Fairlife,low
+6.8,40,1,1,1,1,255,All Fairlife,high
+6.6,50,0,0,0,1,250,All Fairlife,low
+6.5,36,0,0,0,0,247,All Fairlife,medium
+,50,0,0,0,0,255,All Fairlife,low
+6.8,45,1,1,1,0,245,All Fairlife,high
+9.5,34,1,1,0,1,255,All Fairlife,low
+6.5,,0,0,,0,255,All Fairlife,medium
+9.5,,1,1,0,1,255,All Fairlife,low
+6.5,37,0,0,0,0,255,All Fairlife,medium
+6.6,37,1,1,1,1,255,All Fairlife,high
+5.5,45,1,0,1,,250,All Fairlife,low
+4.5,60,,1,1,1,250,All Fairlife,low
+8.1,66,1,0,1,1,,All Fairlife,low
+6.7,45,,1,0,,247,All Fairlife,medium
+6.7,45,1,1,1,0,245,All Fairlife,medium
+5.6,50,0,1,1,1,255,All Fairlife,low
+6.6,35,0,1,1,1,255,All Fairlife,high
+7.4,90,1,0,1,1,255,All Fairlife,low
+6.8,50,0,0,1,0,255,All Fairlife,low
+6.5,,1,0,1,0,255,All Fairlife,medium
+6.7,41,1,0,0,0,247,All Fairlife,medium
+6.7,50,1,1,1,0,245,All Fairlife,low
+6.8,45,0,1,1,1,255,All Fairlife,high
+6.6,45,0,1,0,0,255,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,0,0,0,0,255,All Fairlife,medium
+6.5,38,1,1,1,1,255,All Fairlife,high
+6.8,38,0,0,0,0,255,All Fairlife,medium
+3,40,1,0,,0,255,All Fairlife,low
+9,43,1,1,1,1,248,All Fairlife,low
+6.8,40,1,,,,255,All Fairlife,high
+6.6,50,0,0,0,1,250,All Fairlife,low
+6.5,36,0,0,0,0,247,All Fairlife,medium
+6.6,38,0,0,0,0,255,All Fairlife,medium
+6.8,45,1,1,1,0,245,All Fairlife,high
+9.5,34,1,1,0,1,255,All Fairlife,low
+6.5,37,0,0,0,0,,All Fairlife,medium
+6.6,37,,1,1,1,255,All Fairlife,high
+5.5,45,1,0,1,1,250,All Fairlife,low
+6.5,40,1,0,0,0,250,All Fairlife,medium
+,66,1,0,1,1,255,All Fairlife,low
+,45,1,1,0,0,247,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,,1,255,All Fairlife,low
+6.8,43,1,0,1,0,250,All Fairlife,high
+8.6,55,0,1,,1,255,All Fairlife,low
+6.8,55,0,0,0,1,255,All Fairlife,low
+6.8,45,0,1,1,1,255,All Fairlife,high
+6.5,38,1,0,0,0,255,All Fairlife,medium
+4.7,,1,,,0,255,All Fairlife,low
+3,40,1,1,,1,,All Fairlife,low
+9,43,1,0,,1,250,All Fairlife,low
+6.8,40,,0,1,0,245,All Fairlife,medium
+6.6,45,0,1,1,1,250,All Fairlife,high
+6.5,36,,0,1,0,255,All Fairlife,medium
+4.5,,0,1,1,1,255,All Fairlife,low
+6.8,45,,1,1,1,245,All Fairlife,high
+6.5,50,1,0,1,0,246,All Fairlife,low
+6.8,36,0,1,1,0,253,All Fairlife,high
+8.5,70,0,0,0,0,,All Fairlife,low
+6.8,34,,,,,240,All Fairlife,medium
+6.5,37,0,0,0,0,245,All Fairlife,medium
+6.6,37,1,0,1,,255,All Fairlife,high
+6.8,45,0,1,0,0,240,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,0,0,1,0,255,All Fairlife,medium
+6.5,,1,1,1,1,255,All Fairlife,high
+6.6,38,0,0,0,0,255,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,1,1,1,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+8.6,,0,1,1,1,255,All Fairlife,low
+6.8,45,,,0,1,,All Fairlife,medium
+6.8,,0,1,1,1,255,All Fairlife,high
+6.5,,1,0,0,0,255,All Fairlife,medium
+4.7,38,1,0,1,0,,All Fairlife,low
+3,40,1,1,1,1,255,All Fairlife,low
+9,,1,0,1,1,250,All Fairlife,low
+6.8,40,1,0,,0,245,All Fairlife,medium
+6.5,37,0,0,0,0,255,All Fairlife,medium
+6.6,37,,1,1,1,255,All Fairlife,high
+5.5,45,1,0,1,1,250,All Fairlife,low
+4.5,60,0,1,1,1,250,All Fairlife,low
+8.1,66,,0,,1,255,All Fairlife,low
+,45,1,1,0,0,247,All Fairlife,medium
+6.7,45,1,,1,0,245,All Fairlife,medium
+5.6,50,0,,1,1,255,All Fairlife,low
+8.6,55,,1,1,,255,All Fairlife,low
+,,1,0,1,1,255,All Fairlife,low
+6.8,45,0,,1,0,255,All Fairlife,medium
+6.5,,1,0,1,0,255,All Fairlife,medium
+6.7,38,1,0,1,0,255,All Fairlife,high
+3,40,1,,1,1,255,All Fairlife,low
+9,43,1,0,1,1,250,All Fairlife,low
+8.6,55,0,1,1,1,,All Fairlife,low
+6.8,45,0,0,,1,255,All Fairlife,medium
+6.8,45,0,1,1,,255,All Fairlife,high
+6.5,38,,0,0,0,255,All Fairlife,medium
+4.7,38,1,0,1,0,255,All Fairlife,low
+3,40,,1,1,1,255,All Fairlife,low
+9,,1,0,,1,250,All Fairlife,low
+6.8,40,1,0,,0,245,All Fairlife,medium
+6.6,45,0,1,1,1,250,All Fairlife,high
+6.5,36,0,0,1,0,255,All Fairlife,medium
+,38,0,1,,1,255,All Fairlife,low
+6.8,45,1,1,1,1,245,All Fairlife,high
+6.5,35,1,0,1,0,246,All Fairlife,medium
+6.8,36,0,1,1,,253,All Fairlife,high
+8.5,70,0,0,0,0,246,All Fairlife,low
+6.8,34,0,0,0,1,240,All Fairlife,medium
+6.5,,0,,0,0,245,All Fairlife,medium
+,37,1,0,1,0,255,All Fairlife,high
+6.8,45,0,,0,0,240,All Fairlife,medium
+7.4,65,0,0,0,0,255,All Fairlife,low
+6.8,41,0,0,1,0,255,All Fairlife,medium
+6.5,,1,,1,1,255,All Fairlife,high
+,38,0,0,0,0,255,All Fairlife,medium
+3,40,1,0,0,0,,All Fairlife,low
+9,43,1,,,,248,All Fairlife,low
+,38,1,0,1,0,255,All Fairlife,medium
+6.7,38,1,0,1,0,255,Horizon,high
+,40,1,1,1,1,255,Horizon,low
+6.6,43,1,0,1,1,250,Horizon,high
+8.6,55,0,1,1,1,255,Horizon,low
+6.8,45,0,0,0,1,255,Horizon,medium
+6.8,45,0,1,,1,255,Horizon,high
+6.5,,1,0,0,0,255,Horizon,medium
+6.6,38,,0,1,0,255,Horizon,high
+3,40,1,,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,,0,245,Horizon,medium
+6.6,45,0,0,0,1,250,Horizon,medium
+6.5,36,0,,1,0,255,Horizon,medium
+6.8,,0,1,,1,,Horizon,high
+6.5,,1,0,0,0,255,Horizon,medium
+4.7,38,1,0,,0,255,Horizon,low
+,40,1,1,1,1,255,Horizon,low
+9,43,1,,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.6,45,0,,,1,250,Horizon,high
+6.5,36,0,0,1,,255,Horizon,medium
+4.5,38,0,,1,1,255,Horizon,low
+6.8,45,1,,1,1,245,Horizon,high
+5.5,45,1,0,1,1,250,Horizon,low
+4.5,60,0,,1,1,250,Horizon,low
+8.1,66,1,0,1,1,255,Horizon,low
+6.7,,,1,0,0,247,Horizon,medium
+6.7,45,1,1,1,0,245,Horizon,medium
+5.6,50,0,1,1,1,255,Horizon,low
+6.6,35,0,1,1,1,255,Horizon,high
+,90,1,0,1,,255,Horizon,low
+6.8,50,0,0,1,0,255,Horizon,low
+6.5,38,1,0,1,0,255,Horizon,medium
+6.7,41,1,0,,0,247,Horizon,medium
+6.7,50,1,1,1,0,245,Horizon,low
+6.8,45,0,1,1,1,255,Horizon,high
+8.6,55,0,1,0,0,255,Horizon,low
+7.4,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,0,,255,Horizon,medium
+6.5,38,1,1,,1,,Horizon,high
+6.8,38,0,0,0,0,255,Horizon,medium
+3,40,1,0,0,0,255,Horizon,low
+9,43,1,1,1,1,248,Horizon,low
+6.8,40,,1,1,1,255,Horizon,high
+6.6,45,0,0,0,1,250,Horizon,medium
+6.5,36,,0,0,0,247,Horizon,medium
+6.6,38,0,0,,0,255,Horizon,medium
+6.8,45,1,1,1,0,245,Horizon,high
+9.5,34,,1,0,1,255,Horizon,low
+6.5,37,0,0,0,0,255,Horizon,medium
+6.6,37,1,1,,1,255,Horizon,high
+5.5,45,,0,1,1,,Horizon,low
+4.5,60,0,1,1,1,250,Horizon,low
+8.1,66,1,0,1,1,255,Horizon,low
+6.7,45,1,,0,0,,Horizon,medium
+6.7,45,,1,1,0,245,Horizon,medium
+5.6,50,0,1,1,1,255,Horizon,low
+8.6,55,0,1,1,1,255,Horizon,low
+,90,,0,1,1,,Horizon,low
+,45,0,0,1,0,255,Horizon,medium
+6.5,38,1,0,1,0,255,Horizon,medium
+6.7,,1,0,1,0,255,Horizon,high
+3,40,1,1,1,1,,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+8.6,55,0,,1,1,255,Horizon,low
+,45,0,0,0,1,,Horizon,medium
+6.8,45,,1,1,,255,Horizon,high
+6.5,,1,0,0,0,255,Horizon,medium
+4.7,,1,0,1,,255,Horizon,low
+3,40,1,1,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.5,37,,0,0,0,255,Horizon,medium
+6.6,37,,1,1,1,255,Horizon,high
+5.5,45,1,0,1,1,250,Horizon,low
+4.5,60,0,1,1,1,250,Horizon,low
+8.1,,1,0,1,,255,Horizon,low
+6.7,45,1,,0,0,247,Horizon,medium
+6.7,45,1,1,1,0,245,Horizon,medium
+5.6,50,0,1,1,,255,Horizon,low
+8.6,55,0,1,1,1,,Horizon,low
+7.4,90,1,0,1,1,255,Horizon,low
+6.8,45,0,0,1,,255,Horizon,medium
+6.5,38,1,,1,0,255,Horizon,medium
+6.7,38,1,0,1,0,255,Horizon,high
+3,40,1,1,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+8.6,55,0,1,1,,255,Horizon,low
+6.8,45,0,0,0,1,255,Horizon,medium
+,,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,1,0,1,0,255,Horizon,low
+3,40,1,1,1,1,,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,,0,1,0,,Horizon,medium
+6.6,45,0,1,1,1,250,Horizon,high
+6.5,36,0,0,1,0,255,Horizon,medium
+4.5,38,0,1,1,1,255,Horizon,low
+6.8,45,1,1,,1,245,Horizon,high
+6.5,35,1,0,1,0,246,Horizon,medium
+6.8,36,0,1,,0,253,Horizon,high
+8.5,70,0,0,0,0,246,Horizon,low
+,,0,0,,1,240,Horizon,medium
+6.5,37,0,,0,0,245,Horizon,medium
+6.6,37,1,0,1,,255,Horizon,high
+6.8,45,,1,0,0,240,Horizon,medium
+7.4,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,1,0,255,Horizon,medium
+6.5,38,1,1,1,1,255,Horizon,high
+,38,0,0,0,0,255,Horizon,medium
+3,40,,,0,0,255,Horizon,low
+9,43,1,1,1,1,248,Horizon,low
+6.5,38,1,0,1,0,255,Horizon,medium
+6.7,38,1,0,1,0,255,Horizon,high
+6.6,40,0,0,0,0,,Horizon,medium
+6.6,43,1,0,,1,250,Horizon,high
+8.6,55,0,1,1,1,255,Horizon,low
+6.8,45,,0,0,1,255,Horizon,medium
+6.8,45,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+,38,1,0,,0,255,Horizon,high
+3,40,1,,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,,1,0,245,Horizon,medium
+6.6,45,0,1,1,,250,Horizon,high
+6.5,36,0,0,,0,255,Horizon,medium
+6.8,45,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,1,0,,0,255,Horizon,low
+3,40,1,1,1,1,255,Horizon,low
+9,43,1,,,1,250,Horizon,low
+6.8,40,1,0,,0,245,Horizon,medium
+6.6,45,,1,1,1,250,Horizon,high
+6.5,36,0,0,1,0,255,Horizon,medium
+4.5,38,0,1,1,1,255,Horizon,low
+6.8,45,1,1,1,1,245,Horizon,high
+,35,1,0,1,0,246,Horizon,medium
+6.8,,0,1,1,0,253,Horizon,high
+8.5,70,0,0,0,0,246,Horizon,low
+6.8,,0,0,,1,240,Horizon,medium
+6.5,,0,1,1,1,245,Horizon,low
+6.6,37,1,0,1,,255,Horizon,high
+6.8,45,0,1,0,0,240,Horizon,medium
+7.4,65,0,,0,0,255,Horizon,low
+6.8,41,0,0,1,0,,Horizon,medium
+6.5,38,1,,1,1,255,Horizon,high
+6.6,38,0,0,0,0,255,Horizon,medium
+3,40,1,0,,0,255,Horizon,low
+9,43,1,1,1,1,248,Horizon,low
+6.8,40,1,,1,1,255,Horizon,high
+6.6,50,0,0,0,1,,Horizon,low
+6.5,36,0,0,0,0,247,Horizon,medium
+6.6,50,0,0,0,0,255,Horizon,low
+,45,1,,1,0,,Horizon,high
+6.6,40,1,,0,0,255,Horizon,medium
+9,43,1,1,1,1,248,Horizon,low
+6.8,40,1,1,1,1,255,Horizon,high
+6.6,50,0,0,0,1,250,Horizon,low
+6.5,36,0,0,0,0,247,Horizon,medium
+6.6,38,0,0,0,0,255,Horizon,medium
+6.8,,1,1,1,0,245,Horizon,high
+9.5,34,1,1,,1,255,Horizon,low
+6.5,37,0,0,,0,255,Horizon,medium
+6.6,37,1,1,1,1,,Horizon,high
+5.5,45,1,0,1,1,250,Horizon,low
+6.5,40,1,,0,0,250,Horizon,medium
+8.1,66,1,0,,1,255,Horizon,low
+6.7,,1,1,,0,247,Horizon,medium
+6.7,38,1,0,1,0,,Horizon,high
+3,40,1,1,1,1,255,Horizon,low
+,43,1,0,,,250,Horizon,high
+,,0,1,1,1,,Horizon,low
+6.8,55,,0,0,1,255,Horizon,low
+6.8,45,,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+,38,1,0,1,,,Horizon,low
+6.6,,1,1,1,1,,Horizon,high
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.6,45,0,1,,1,250,Horizon,high
+6.5,,0,0,1,0,255,Horizon,medium
+4.5,38,0,1,1,1,255,Horizon,low
+6.8,45,1,1,1,1,245,Horizon,high
+,50,1,0,1,0,246,Horizon,low
+6.6,37,1,0,1,0,255,Horizon,high
+6.8,45,0,1,0,0,240,Horizon,medium
+7.4,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,1,0,255,Horizon,medium
+6.5,,1,1,1,1,255,Horizon,high
+6.6,38,0,0,0,0,255,Horizon,medium
+6.7,38,1,0,1,0,255,Horizon,high
+3,,1,,1,1,255,Horizon,low
+,,0,0,1,0,250,Horizon,medium
+8.6,55,0,1,,1,255,Horizon,low
+6.8,45,0,0,0,1,255,Horizon,medium
+6.8,45,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,,0,1,,255,Horizon,low
+3,,1,1,,,255,Horizon,low
+,43,1,0,1,,250,Horizon,low
+6.8,40,1,,1,0,245,Horizon,medium
+6.5,37,0,0,0,,255,Horizon,medium
+6.6,37,1,1,1,1,,Horizon,high
+5.5,45,1,0,1,1,250,Horizon,low
+6.5,40,0,0,1,0,250,Horizon,medium
+8.1,66,1,0,1,1,255,Horizon,low
+6.7,45,,1,0,0,247,Horizon,medium
+6.7,45,1,1,,0,245,Horizon,medium
+5.6,50,0,1,1,1,255,Horizon,low
+8.6,55,0,1,1,1,255,Horizon,low
+6.7,41,1,0,0,0,247,Horizon,medium
+,50,1,,1,0,245,Horizon,low
+6.8,45,,1,1,1,255,Horizon,high
+8.6,55,0,1,0,0,255,Horizon,low
+7.4,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,0,0,255,Horizon,medium
+6.5,38,1,1,1,1,255,Horizon,high
+6.8,38,0,0,,0,255,Horizon,medium
+3,40,1,,0,0,255,Horizon,low
+9,43,1,1,1,1,248,Horizon,low
+6.8,40,,1,1,1,255,Horizon,high
+6.6,,0,0,0,1,250,Horizon,medium
+6.5,36,0,,0,0,247,Horizon,medium
+6.6,38,0,,1,1,255,Horizon,high
+6.8,,1,1,1,,245,Horizon,high
+9.5,34,1,1,0,,255,Horizon,low
+6.5,,,0,0,0,255,Horizon,medium
+6.6,37,1,1,1,1,255,Horizon,high
+5.5,45,1,0,1,1,250,Horizon,low
+,60,0,1,1,1,250,Horizon,low
+8.1,66,1,0,1,1,255,Horizon,low
+,45,1,1,0,0,247,Horizon,medium
+,45,1,1,1,0,245,Horizon,medium
+5.6,50,0,,,1,255,Horizon,low
+8.6,55,0,1,1,1,255,Horizon,low
+6.6,45,1,0,0,,255,Horizon,medium
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.6,,,1,,1,250,Horizon,high
+6.5,36,,0,1,0,255,Horizon,medium
+,38,0,1,1,,255,Horizon,low
+6.8,,1,1,1,1,245,Horizon,high
+6.5,35,1,0,1,0,246,Horizon,medium
+6.8,36,0,1,1,0,253,Horizon,high
+8.5,70,0,0,,0,246,Horizon,low
+6.8,34,0,0,0,1,240,Horizon,medium
+6.5,37,,0,0,0,245,Horizon,medium
+6.6,37,1,0,1,0,255,Horizon,high
+6.8,45,0,,,0,240,Horizon,medium
+7.4,65,0,0,0,0,255,Horizon,low
+6.8,41,1,1,1,,255,Horizon,high
+6.5,38,1,1,1,1,255,Horizon,high
+6.6,38,0,0,0,0,255,Horizon,medium
+3,40,1,,0,0,255,Horizon,low
+9,43,1,1,,1,248,Horizon,low
+6.5,38,1,,,,255,Horizon,medium
+6.7,38,1,0,1,0,255,Horizon,high
+3,40,1,1,1,1,255,Horizon,low
+6.6,43,1,0,1,1,250,Horizon,high
+8.6,55,0,,1,1,,Horizon,low
+6.5,40,1,0,0,0,250,Horizon,medium
+8.1,66,1,0,1,1,255,Horizon,low
+6.7,45,1,1,0,0,247,Horizon,medium
+6.7,38,1,,1,0,255,Horizon,high
+3,40,1,1,1,1,,Horizon,low
+6.8,43,1,0,,0,250,Horizon,high
+8.6,55,0,,1,1,255,Horizon,low
+6.8,55,0,0,0,1,255,Horizon,low
+6.8,45,0,,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,1,0,1,0,255,Horizon,low
+3,40,1,1,1,1,255,Horizon,low
+9,43,1,0,1,,250,Horizon,low
+6.8,40,1,0,,0,245,Horizon,medium
+6.6,45,0,1,1,,250,Horizon,high
+6.5,36,0,0,1,0,255,Horizon,medium
+4.5,38,,1,1,,255,Horizon,low
+6.8,45,1,1,1,1,245,Horizon,high
+6.5,,1,0,0,,246,Horizon,medium
+6.8,36,0,1,1,0,253,Horizon,high
+8.5,70,0,0,0,0,246,Horizon,low
+6.8,34,0,,0,1,240,Horizon,medium
+6.5,37,0,0,0,0,245,Horizon,medium
+,,1,0,1,0,255,Horizon,high
+6.8,,0,1,0,0,240,Horizon,medium
+,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,1,0,255,Horizon,medium
+6.5,38,1,1,1,1,255,Horizon,high
+6.6,38,0,0,0,0,255,Horizon,medium
+6.7,38,1,0,,0,255,Horizon,high
+3,40,1,1,,1,255,Horizon,low
+6.6,43,0,0,0,,250,Horizon,medium
+8.6,55,,1,1,1,255,Horizon,low
+6.8,45,0,0,0,1,255,Horizon,medium
+6.8,45,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,1,0,1,0,255,Horizon,low
+,40,1,1,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.5,37,0,,0,0,,Horizon,medium
+3,40,1,1,1,1,255,Horizon,low
+9,43,1,0,1,1,250,Horizon,low
+6.8,,,0,,0,245,Horizon,medium
+6.6,,0,1,1,1,250,Horizon,high
+6.5,36,0,0,1,0,255,Horizon,medium
+6.8,45,0,1,1,1,255,Horizon,high
+6.5,38,1,0,0,0,255,Horizon,medium
+4.7,38,,0,1,0,255,Horizon,low
+,,1,1,1,,255,Horizon,low
+,43,1,0,1,1,250,Horizon,low
+6.8,40,1,0,1,0,245,Horizon,medium
+6.6,45,0,1,1,1,250,Horizon,high
+6.5,36,0,0,1,0,,Horizon,medium
+4.5,38,0,1,1,1,255,Horizon,low
+6.8,,1,1,1,1,245,Horizon,high
+6.5,,1,0,1,0,,Horizon,medium
+6.8,36,0,1,1,,253,Horizon,high
+8.5,,0,0,0,0,246,Horizon,low
+6.8,34,0,0,0,1,240,Horizon,medium
+6.5,37,,1,,1,245,Horizon,low
+,37,1,0,1,0,255,Horizon,high
+6.8,45,0,1,,0,240,Horizon,medium
+,65,0,0,0,0,255,Horizon,low
+6.8,41,0,0,1,0,255,Horizon,medium
+6.5,38,1,1,1,1,255,Horizon,high
+6.6,38,0,0,0,0,255,Horizon,medium
+3,40,1,,0,,255,Horizon,low
+9,43,1,1,1,,248,Horizon,low
+6.8,40,1,1,1,1,255,Horizon,high
+6.6,50,0,0,0,1,250,Horizon,low
+6.5,36,0,0,0,0,247,Horizon,medium
+6.6,50,0,,0,0,255,Horizon,low
+6.8,45,1,1,1,0,245,Horizon,high
+6.6,40,1,0,0,,255,Horizon,medium
+9,43,1,1,1,1,248,Horizon,low
+6.8,40,1,1,1,1,255,Horizon,high
+6.6,50,0,0,0,1,250,Horizon,low
+6.5,36,0,0,0,0,247,Horizon,medium
+,38,0,0,0,0,255,Horizon,medium
+6.8,45,1,1,1,0,245,Horizon,high
+9.5,34,1,1,0,1,255,Horizon,low
+6.5,37,0,0,0,0,255,Horizon,medium
+6.6,37,1,1,1,,255,Horizon,high
+5.5,,1,0,1,1,250,Horizon,low
+6.5,,1,0,0,0,,Horizon,medium
+8.1,66,1,0,1,1,255,Horizon,low
+6.7,45,1,1,,0,247,Horizon,medium
+,38,1,0,,0,,Horizon,high
+3,40,1,1,,1,,Horizon,low
+,43,1,0,1,0,250,Horizon,high
+8.6,55,0,1,1,,255,Horizon,low
